@@ -270,9 +270,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions or collaborations:
-- 📧 Email: your.email@university.com
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/ayoub-hannachi-0727931b0/)
-- 🐙 GitHub: [@yourusername](https://github.com/ayoub1999hannachi/)
+- 📧 Email: ahannachi193@gmail.com
+- 💼 LinkedIn: [Hannachi Ayoub](https://www.linkedin.com/in/ayoub-hannachi-0727931b0/)
+- 🐙 GitHub: [@ayoub1999hannachi](https://github.com/ayoub1999hannachi/)
 
 ---
 
